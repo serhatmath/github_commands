@@ -1,0 +1,4 @@
+cd my_github_file        : first go to your file 
+git init                 : Initialize a local Git repository
+git add .                : Add a file to the staging area
+git commit -m "[message]": Commit changes
