@@ -1,10 +1,7 @@
-cd my_github_file        : first go to your file 
-git init                 : Initialize a local Git repository
-git add .                : Add all files to the staging area
-git commit -m "[message]": Commit changes
-git status               : State of the working directory and the staging area
-       ~in github account create a repository and copy its adress~
-git remote add temporary_name https://github.com/serhatmath/...
-git push -u temporary_name master
-       ~login~
-we are done!
+1. cd my_github_file(cd:change directory)       
+2. git init (Initialize a local Git repository)
+3. git add . (Add . -for all files or name of the file- to the staging area)
+4. git commit -m "[message]" (Commit changes)
+5. git status (State of the working directory and the staging area)
+6. git remote add temporary_name https://github.com/serhatmath/(+ new repository and paste its adress here)
+7. git push -u temporary_name master
